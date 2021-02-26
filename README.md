@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreetVdL&hide=ruby,shell&title_color=000000&hide_border=false)](https://github.com/GreetVdL/github-readme-stats)
 
-[![Greet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreetVdL&show_icons=true&title_color=000000&icon_color=00B5E2&hide_border=false&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)](https://github.com/GreetVdL/github-readme-stats)
+[![Greet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreetVdL&show_icons=true&title_color=000000&icon_color=00B5E2&hide_border=false&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/GreetVdL/github-readme-stats)
 
 
 <!--### Hi there 👋 -->
