@@ -1,7 +1,8 @@
 <h1 align="center">Hi! 🖐️ I'm Greet.</h1>
 <h3 align="center">💘 I love everything web development. 💘</h3>
 
-- 🌱 I’m currently studying **frontend development.**
+- 🌱 I’m currently studying **frontend development**
+-  :wrench: And have a strong interest in the backend too
 
 
 <h3 align="left">Languages and Tools</h3>
