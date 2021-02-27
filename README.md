@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And have a strong interest in the backend too
-<p></p>
 -  💦 Apart from that, I love swimming
 -  :pencil2: And I very much like to draw things ---> checkout my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="_blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
 
