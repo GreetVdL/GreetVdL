@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 🖐️ I'm Greet.</h1>
-<h3 align="center">💘 <span style="color:00B5E2">I love everything web development.</span> 💘</h3>
+<h3 align="center">💘 <font color="#00B5E2">I love everything web development.</font> 💘</h3>
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And have a strong interest in the backend too
