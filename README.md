@@ -1,5 +1,6 @@
-<h1 align="center">Hi! 🖐️ I'm Greet.</h1>
-<h3 align="center">💘 <font color="#00B5E2">I love everything web development.</font> 💘</h3>
+<img src="./images/popmais.png">
+<h2 align="left">Hi! 🖐️ I'm Greet.</h2>
+<h3 align="left">💘 <font color="#00B5E2">I love everything web development.</font> 💘</h3>
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And have a strong interest in the backend too
