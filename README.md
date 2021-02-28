@@ -1,10 +1,10 @@
 <img src="./images/popmais.png">
-<h3 align="center">Hi! I'm Greet. 🖐️ I love everything web development.</h3>
+<h3 align="center">Hi! I'm Greet. 🖐️</h3>
 <!--<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>-->
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And have a strong interest in the backend too
--  :pencil2: I also like to draw things ---> checkout my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
+-  :pencil2: I also like to draw things ---> this is my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
 
 
 <h3 align="left">Languages and Tools</h3>
