@@ -19,9 +19,8 @@
 
 <!--https://github.githubassets.com/images/modules/open_graph/github-mark.png-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreetVdL&hide=ruby,shell&title_color=937B6E&hide_border=false&text_color=937B6E)](https://github.com/GreetVdL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreetVdL&hide=ruby,shell&title_color=937B6E&hide_border=false&text_color=937B6E)](https://github.com/GreetVdL/github-readme-stats) [![Greet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreetVdL&show_icons=true&title_color=937B6E&icon_color=00B5E2&hide_border=false&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&hide_rank=true&text_color=937B6E)](https://github.com/GreetVdL/github-readme-stats)
 
-[![Greet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreetVdL&show_icons=true&title_color=937B6E&icon_color=00B5E2&hide_border=false&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&hide_rank=true&text_color=937B6E)](https://github.com/GreetVdL/github-readme-stats)
 
 
 <!--### Hi there 👋 -->
