@@ -1,6 +1,6 @@
 <img src="./images/popmais.png">
-<h3 align="left">🖐️ Hi! I'm Greet.</h3>
-<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>
+<h3 align="left">🖐️ Hi! I'm Greet. I love everything web development.</h3>
+<!--<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>-->
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And have a strong interest in the backend too
