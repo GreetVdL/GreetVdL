@@ -1,4 +1,4 @@
-<img src="./images/popmais.png">
+<img src="./images/popmais-copyright-v1.png">
 <h3 align="center">Hi! I'm Greet 🖐️</h3>
 <!--<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>-->
 
