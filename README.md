@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greetvdl&repo=kleurboek)](https://github.com/greetvdl/kleurboek)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greetvdl&repo=GITguide)](https://github.com/greetvdl/GITguide) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greetvdl&repo=kleurboek)](https://github.com/greetvdl/kleurboek)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greetvdl&repo=GITguide)](https://github.com/greetvdl/GITguide)
 
