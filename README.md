@@ -1,5 +1,5 @@
 <img src="./images/popmais-copyright-v1.png">
-<h3 align="center">Hi! I'm Greet 🖐️</h3>
+<h2 align="center">Hi! I'm Greet 🖐️</h2>
 <!--<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>-->
 
 - 🌱 I’m currently studying **frontend development**
