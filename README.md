@@ -8,8 +8,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://discord.gg/Greet#5582" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Greet#5582" height="30" width="40" /></a>
-<a href="https://medium.com/@vanderlindengreet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanderlindengreet" height="30" width="40" /></a>
+<p><a href="https://discord.gg/Greet#5582" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Greet#5582" height="30" width="40" /></a> Greet#5582</p>
+<!--<p><a href="https://medium.com/@vanderlindengreet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanderlindengreet" height="30" width="40" /></a> @vanderlindengreet</p>-->
+  
   <!--
 <a href="https://www.frontendmentor.io/profile/GreetVdL" target="_blank" > <img src="https://user-images.githubusercontent.com/43548163/109355351-607e4600-787f-11eb-8c63-08c2ca689fb9.png" height="40" width="40"></a>
 <a href="https://www.codewars.com/users/GreetVdL" target="_blank"><img src="https://www.codewars.com/users/GreetVdL/badges/micro"></a>-->
