@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying **frontend development**
 -  :wrench: And I have a strong interest in the backend too
--  :pencil2: I also like to draw things ---> this is my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
+-  :pencil2: I also like to *draw* things ---> this is my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
 <!--
 -  ✉️ <a href="https://discord.gg/Greet#5582" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Greet#5582" height="30" width="40" /></a> Greet#5582-->
 
