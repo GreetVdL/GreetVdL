@@ -2,7 +2,7 @@
 <h2 align="center">Hi! I'm Greet 🖐️</h2>
 <!--<h3 align="left"><font color="#00B5E2">I love everything web development.</font></h3>-->
 
-- 🌱 I’m currently studying **frontend development**
+- 🌱 I’m a **frontend developer**
 - :wrench: And I have a strong interest in the backend too
 - :pencil2: I also like to _draw_ things ---> this is my website:&nbsp;&nbsp; <a href="https://mannekesblad.com/" target="blank"><img src="./images/smoutebol-logo.png" width="40" height="40"></a>
 <!--
